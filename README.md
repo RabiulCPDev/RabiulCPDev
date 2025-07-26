@@ -1,4 +1,22 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38" height="38">, I’m Rabiul Islam</h1> <h3 align="center">Competitive Programmer | Full Stack Developer | Bangladesh</h3> <p align="center"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="340" alt="Coding animation"> </p> <p align="center"> <a href="https://komarev.com/ghpvc/?username=RabiulCPDev&label=Profile%20views&color=0e75b6&style=flat" target="_blank"> <img src="https://komarev.com/ghpvc/?username=RabiulCPDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/> </a> </p>
+<p align="center">
+  ![image2](image2)
+</p>
+
+<p align="center">
+  Profile views
+  <br>
+  <a href="https://komarev.com/ghpvc/?username=RabiulCPDev&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=RabiulCPDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+</p>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38" height="38">, I'm Rabiul Islam</h1>
+<h3 align="center">Competitive Programmer | Full Stack Developer | Bangladesh</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="340" alt="Coding animation">
+</p>
+
 About Me
 💻 Full Stack Developer & Competitive Programmer passionate about clean code and problem-solving.
 
