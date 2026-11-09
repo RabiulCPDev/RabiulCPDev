@@ -76,10 +76,10 @@ I was a **Programming Session Instructor** at Khulna University CSE, where I men
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=RabiulCPDev&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabiulCPDev&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
+</p> -->
 
 ---
 
